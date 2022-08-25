@@ -1,0 +1,103 @@
+#head {
+    height: 95px;
+    background-color: brown;
+    color: rgb(255, 255, 255);
+    padding-left: 7%;
+    font-size: 25px;
+    padding-top: 2%;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 20px;
+}
+
+a {
+    color: red;
+}
+form {
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 120px;
+    background-color: rgb(147, 166, 201);
+}
+input,form {
+   padding-left: 15px;
+}
+#input1{
+    height: 18px;
+   border-radius: 11%;
+   border: 2px solid gray;
+   width: 285px;
+}
+#input2 {
+    height: 18px;
+    border-radius: 11%;
+    border: 2px solid gray;
+    width: 285px;
+}
+#input3 {
+    height: 18px;
+    border-radius: 11%;
+    border: 2px solid gray;
+    width: 285px;
+}
+#input4 {
+    height: 18px;
+    border-radius: 11%;
+    border: 2px solid gray;
+    width: 285px;
+}
+#input5{
+    height: 18px;
+    border-radius: 11%;
+    border: 2px solid gray;
+    width: 285px;
+}
+#input6 {
+    height: 18px;
+    border-radius: 11%;
+    border: 2px solid gray;
+    width: 85px;
+}
+#input7 {
+    height: 18px;
+    border-radius: 13%;
+    border: 2px solid gray;
+    width: 85px;
+}
+#input8 {
+    height: 18px;
+    border-radius: 11%;
+    border: 2px solid gray;
+    width: 175px;
+}
+#input9 {
+    height: 18px;
+    border-radius: 11%;
+    border: 2px solid gray;
+    width: 285px;
+}
+.button {
+color: #ffff;
+}
+#select1 {
+padding-left: 55px;
+border-radius: 11%;
+border: 2px solid gray;
+}
+#State {
+    padding-left: 68px;
+}
+#Phone {
+    padding-left: 48px;
+}
+label {
+    padding-left: 2px;
+}
+button {
+    height: 29px;
+    width: 305px;
+    border-radius: 25px;
+    border-style: none;
+    background-color: lightslategrey;
+}
+
